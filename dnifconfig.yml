@@ -1,0 +1,2 @@
+enrichment_plugin:
+  GREENSNOW_IP_SOURCE: http://blocklist.greensnow.co/greensnow.txt
