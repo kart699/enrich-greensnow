@@ -15,8 +15,6 @@ GreenSnow is comparable with SpamHaus.org for attacks of any kind except for spa
   -  SSH
   -  cPanel 
 
-#### Contact Information
-  https://greensnow.co/contact
 ### Using the GreenSnow feed API
  The GreenSnow feed API is found on github at
 
