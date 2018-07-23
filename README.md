@@ -15,6 +15,15 @@ GreenSnow is comparable with SpamHaus.org for attacks of any kind except for spa
   -  SSH
   -  cPanel 
 
+### PRE-REQUISITES to use GreenSnow IP feeds and DNIF  
+Outbound access required to request GreenSnow IP feeds API
+
+| Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
+|:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
+| TCP | AD,A10 | Any | Egress	| github.com | 443 |
+| TCP | AD,A10 | Any | Egress	| blocklist.greensnow.co | 443 | 
+
+
 ### Using the GreenSnow feed API
  The GreenSnow feed API is found on github at
 
