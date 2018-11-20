@@ -21,7 +21,7 @@ Outbound access required to request GreenSnow IP feeds API
 | Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
 |:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
 | TCP | AD,A10 | Any | Egress	| github.com | 443 |
-| TCP | AD,A10 | Any | Egress	| greensnow.co | 443 | 
+| TCP | AD,A10 | Any | Egress	| greensnow.co | 80 | 
 
 
 ### Using the GreenSnow feed API
